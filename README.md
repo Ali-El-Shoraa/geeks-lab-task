@@ -13,8 +13,6 @@ This project is a work of art created using ReactJS.
 
 ## Overview
 
-naturally! The project I built can be summarized as follows:
-
 **Project Type:**
 A UI project using React and Tailwind CSS.
 
